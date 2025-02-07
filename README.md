@@ -2,7 +2,7 @@
 
 
 
-## 操作便捷，几行命令即可完成jdk下载环境变量配置，jdk统一管理，代码开源 gitee地址：
+## 操作便捷，几行命令即可完成jdk下载环境变量配置，jdk统一管理，代码开源 github地址：https://github.com/userjiangran/jdkrv.git  gitee地址：https://gitee.com/jiang-ran456/jdk-version-control-tool.git
 
 
 
