@@ -10,7 +10,7 @@
 
 ### 有两种方式一种是开箱即用里面已经包含了各个版本的jdk省的自己下载了将压缩包下载到本地解压后将解压文件夹添加到系统变量中直接就可以执行查看命令切换jdk版本了，查看命令和切换版本命令看下面
 
-![image-20250207150703429](C:\Users\kcswg\AppData\Roaming\Typora\typora-user-images\image-20250207150703429.png)
+![image-20250207150703429](assets/image-20250207150703429.png)
 
 ### 另一种就是创建一个文件夹下载jdkrv.bat文件放到创建的文件夹里面然后执行初始化命令就可以下载自己所需的jdk了，初始化命令和下载命令看下面
 
@@ -18,7 +18,7 @@
 
 ### 第一步先将jdkrv.bat添加到环境变量
 
-![image-20250207152634937](C:\Users\kcswg\AppData\Roaming\Typora\typora-user-images\image-20250207152634937.png)
+![image-20250207152634937](assets/image-20250207152634937.png)
 
 ### 查看版本
 
@@ -34,7 +34,7 @@ jdkrv version
 jdkrv init
 ```
 
-![1738913427139](C:\Users\kcswg\Documents\WeChat Files\wxid_po1qb7ozirk622\FileStorage\Temp\1738913427139.jpg)
+![1738913427139](assets/1738913427139.jpg)
 
 初始化后会生成配置文件，conf.jdkrv在里面可以修改jdk的下载存放路径，jdkLinks.jdkrv中可以修改增加jdk的下载url地址
 
@@ -49,7 +49,7 @@ jdkrv links
 jdkrv links all
 ```
 
-![image-20250207153356177](C:\Users\kcswg\AppData\Roaming\Typora\typora-user-images\image-20250207153356177.png)
+![image-20250207153356177](assets/image-20250207153356177-1738917025325-7.png)
 
 
 
@@ -59,7 +59,7 @@ jdkrv links all
 jdkrv install jdk-12
 ```
 
-![image-20250207154254734](C:\Users\kcswg\AppData\Roaming\Typora\typora-user-images\image-20250207154254734.png)
+![image-20250207154254734](assets/image-20250207154254734-1738916990335-3.png)
 
 
 
@@ -69,7 +69,7 @@ jdkrv install jdk-12
 jdkrv list
 ```
 
-![image-20250207153938257](C:\Users\kcswg\AppData\Roaming\Typora\typora-user-images\image-20250207153938257.png)
+![image-20250207153938257](assets/image-20250207153938257.png)
 
 
 
@@ -79,7 +79,7 @@ jdkrv list
 jdkrv use jdk-12
 ```
 
-![image-20250207154034633](C:\Users\kcswg\AppData\Roaming\Typora\typora-user-images\image-20250207154034633.png)
+![image-20250207154034633](assets/image-20250207154034633.png)
 
 
 
